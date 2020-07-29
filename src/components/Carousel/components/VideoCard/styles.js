@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const VideoCardContainer = styled.a`
   border: 2px solid;
@@ -14,17 +14,20 @@ export const VideoCardContainer = styled.a`
   background-size: cover;
   background-position: center;
   border-radius: 10px;
+  box-shadow: 1px 1px 8px 2px var(--primary);
   position: relative;
   display: flex;
   align-items: flex-end;
   padding: 16px;
 
-  transition: opacity .3s;
+  transition: opacity 0.3s;
   &:hover,
   &:focus {
-    opacity: .5;
+    opacity: 0.5;
+    width: 300px;
+    zoom: 500px;
   }
-  
+
   &:not(:first-child) {
     margin-left: 20px;
   }

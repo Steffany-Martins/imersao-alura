@@ -1,8 +1,10 @@
 .Logo {
-  max-width: 168px;
+  max-width: 210px;
 }
 .Logo:hover {
-  max-width: 30vh;
+  transition: ease-in 0.1s;
+  transform: rotate(3deg);
+  max-width: 205px;
 }
 @media (max-width: 800px) {
   .Logo {
@@ -27,7 +29,7 @@
   padding-right: 5%;
 
   background: var(--black);
-  border-bottom: 2px solid var(--blackLighter);
+  box-shadow: 1px 1px 8px 2px var(--primary);
 }
 body {
   --bodyPaddingTop: 94px;
@@ -37,6 +39,7 @@ body {
   .Menu {
     height: 40px;
     justify-content: center;
+    padding-top: 10px;
   }
   body {
     --bodyPaddingTop: 40px;

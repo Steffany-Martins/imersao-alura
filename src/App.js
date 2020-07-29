@@ -11,15 +11,15 @@ function App() {
     <div
       style={{
         //fallback
-        background: "#141414",
-        background: "linear-gradient(9deg,#11a0e2 10%,#141414 50%)",
+        background: "#580C1F",
+        background: "linear-gradient(9deg,#580C1F 10%,#141414 50%)",
       }}
     >
       <Menu />
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Frontend? Trabalhando na área"}
+        videoDescription={"Venha pegar fogo!  🥰"}
       />
 
       <Carousel ignoreFirstVideo category={dadosIniciais.categorias[0]} />
