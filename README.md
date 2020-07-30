@@ -1,68 +1,103 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+<p align="center"> 
+  <img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/imersao-react-logo.1594044142.svg" alt="lolo imersao alura" height="400">
+  <div display="flex"><img src="https://img.shields.io/npm/l/node_module?color=green">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</div>
+  
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<br>
 
-### `yarn test`
+<a href="#IR">Imersão React</a>   |  <a href="#Project">  Project</a>   |   <a href="#Tech"> Technologies</a>     |  <a href="#HowtoUse">  How to use </a>   | <a href="#HowtoContribute">   How to contribute </a>  | <a href="#License">   License </a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `yarn build`
+<h1 id="IR">ℹ️ What's Imersão React?</h1>
+<p align="justify"><p>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h3>Days</h3>
+<ul liststyle="none">
+<li>Dia 1: React Components e AluraFlix 27/07 - ✔️</li>
+<li>Dia 2: Roteamento e state 28/07 - ✔️</li>
+<li>Dia 3: Formulários reutilizáveis e mais components 29/07 - ✔️</li>
+<li>Dia 4: Ajax, validação e o back-end 30/07 - ❌ </li>
+<li>Dia 5: ... 31/07 - ❌ </li>
+</ul>
+<div>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<h2 id="Project">💻 Project</h2>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="justify">The React Immersion project works on building a page that has functions similar to the Netflix website. However, one version of the project I chose was to list the entire Korean universe of kpop as a netflix. In this case, I hope you enjoy the app Kpopflix!</p>
 
-### `yarn eject`
+<p align="center"> 
+<img src="https://github.com/Steffany-Martins/techflix/blob/master/src/assets/Logo.png" with="200" height="200" alt="Logo Kpopflix">
+</p>
+<p>  You can download the font <a href=https://fontmeme.com/exo-font>here</a>.
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+ <h2>🌈To do my own project,</h2> <br>
+<p align="justify">I'm using my palette random in <a href="https://coolors.co/">colors.co</a>. You can use this colors in your project if u like:</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  <p align="center"> 
+<img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/Palette.png" with="500" height="200"  alt="My Palette">
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+</div>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<br>
 
-## Learn More
+<h2 id="Tech">🚀 Technologies</h2>
+<p>This project was developed with the following technologies:</p>
+<br>
+<ul>
+<li>Javascript</li>
+<li>React</li>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+</ul>
+<br>
+<h2 id="HowtoUse">ℹ️ How To Use</h2>
+<hr>
+<p>To clone and run this application, you'll need Git, Node.js + Yarn installed on your computer.</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>From your command line:</p>
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<h3>Install Front-end</h3>
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+```
+# Clone this repository
+$ git clone git@github.com:Steffany-Martins/techflix.git
 
-### Making a Progressive Web App
+# Go into the repository
+$ cd techflix
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+# Install dependencies
+$ yarn install
 
-### Advanced Configuration
+# Run
+$ yarn start
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+# running on port 3000
+```
+<br>
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
+<h2 id="HowtoContribute">🤔 How to contribute</h2>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<h3>🔀 Make a fork 🔀</h3>
+Create a branch with your feature: git checkout -b my-feature;
+Commit changes: git commit -m 'feat: My new feature';
+Make a push to your branch: git push origin my-feature.
+After merging your receipt request to done, you can delete a branch from yours.
+
+<h2 id="License">📝 License </h2
+<p>This project is under the MIT license. See the LICENSE for details.</p>
+
+<h3>✔️ Made by Steffany Martins </h3> <a href="https://www.linkedin.com/in/steffanymartinssoares/">👋 Let's connect!</a>
+<br>
