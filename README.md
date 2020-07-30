@@ -3,6 +3,7 @@
 
 <p align="center"> 
   <img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/imersao-react-logo.1594044142.svg" alt="lolo imersao alura" height="400">
+  
   <div display="flex"><img src="https://img.shields.io/npm/l/node_module?color=green">
 
 </div>
@@ -10,8 +11,9 @@
 </p>
 
 <br>
-
+<div align="center">
 <a href="#IR">Imersão React</a>   |  <a href="#Project">  Project</a>   |   <a href="#Tech"> Technologies</a>     |  <a href="#HowtoUse">  How to use </a>   | <a href="#HowtoContribute">   How to contribute </a>  | <a href="#License">   License </a>
+
 
 </div>
 
@@ -35,14 +37,22 @@
 <p align="center"> 
 <img src="https://github.com/Steffany-Martins/techflix/blob/master/src/assets/Logo.png" with="200" height="200" alt="Logo Kpopflix">
 </p>
-<p>  You can download the font <a href=https://fontmeme.com/exo-font>here</a>.
+<p align="justify">  You can download the font <a href=https://fontmeme.com/exo-font>here</a>.
+  
+ <h2>Project on Vercel</h2>
+ <div align="center">
+ <img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/React%20App%20(1).gif" alt="app techflix logo>
+  </div>
+  <br>
+  <bold><a href=https://techflix-mu.vercel.app/>PROJECT ON VERCEL </a></bold>
 <br>
 
  <h2>🌈To do my own project,</h2> <br>
-<p align="justify">I'm using my palette random in <a href="https://coolors.co/">colors.co</a>. You can use this colors in your project if u like:</p>
 
   <p align="center"> 
 <img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/Palette.png" with="500" height="200"  alt="My Palette">
+<p align="justify">I'm using my palette random in <a href="https://coolors.co/">colors.co</a>. You can use this colors in your project if u like:</p>
+
 </p>
 
 </div>
@@ -55,7 +65,8 @@
 <ul>
 <li>Javascript</li>
 <li>React</li>
-
+<li>Styled-Components</li>
+<li>React-slick</li>
 </ul>
 <br>
 <h2 id="HowtoUse">ℹ️ How To Use</h2>
@@ -101,3 +112,5 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 <h3>✔️ Made by Steffany Martins </h3> <a href="https://www.linkedin.com/in/steffanymartinssoares/">👋 Let's connect!</a>
 <br>
+
+<video src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/React%20App.webm" alt="lolo imersao alura" height="700">
