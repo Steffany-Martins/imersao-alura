@@ -9,7 +9,15 @@ export const VideoCardContainer = styled.a`
   color: white;
   flex: 0 0 298px;
   width: 298px;
-  height: 197px;
+
+  height: 200px;
+  transition: opacity 0.3s;
+  &:hover {
+    z-index: 1;
+    transition: 1.2s ease-in-out;
+    margin: 0 30px;
+    height: 30vh;
+  }
   background-image: ${({ url }) => `url(${url})`};
   background-size: cover;
   background-position: center;
@@ -20,7 +28,6 @@ export const VideoCardContainer = styled.a`
   align-items: flex-end;
   padding: 16px;
 
-  transition: opacity 0.3s;
   &:hover,
   &:focus {
     opacity: 0.5;

@@ -11,7 +11,7 @@ const Menu = () => {
         <img className="Logo" src={logo} alt="Home KpopFlix" title="Home" />
       </Link>
 
-      <Button as={Link} to="/cadastro/video">
+      <Button as={Link} to="/cadastro/categoria">
         Novo Vídeo
       </Button>
     </nav>

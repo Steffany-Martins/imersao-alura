@@ -2,10 +2,11 @@
   max-width: 210px;
 }
 .Logo:hover {
-  transition: ease-in 0.1s;
-  transform: rotate(3deg);
+  transition: ease-in 0.2s;
+  transform: rotate(4deg);
   max-width: 205px;
 }
+
 @media (max-width: 800px) {
   .Logo {
     max-width: 105px;
