@@ -37,14 +37,15 @@
 <p align="center"> 
 <img src="https://github.com/Steffany-Martins/techflix/blob/master/src/assets/Logo.png" with="200" height="200" alt="Logo Kpopflix">
 </p>
-<p align="justify">  You can download the font <a href=https://fontmeme.com/exo-font>here</a>.
+<p align="justify">  You can download the font <a href=https://fontmeme.com/exo-font>here</a>. And...
+  </p>
+  <p>  <a href=https://techflix-mu.vercel.app/>My Project in Vercel </a>
+</p>
   
  <h2>Project on Vercel</h2>
  <div align="center">
  <img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/React%20App%20(1).gif" alt="app techflix logo>
   </div>
-  <br>
-  <bold><a href=https://techflix-mu.vercel.app/>PROJECT ON VERCEL </a></bold>
 <br>
 
  <h2>🌈To do my own project,</h2> <br>
