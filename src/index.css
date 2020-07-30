@@ -13,6 +13,11 @@
   --frontEnd: #76d1fb;
   --backEnd: #00c86f;
 }
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
 
 html,
 body {
