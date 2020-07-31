@@ -17,7 +17,7 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "npm run server",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "dev": "concurrently \"react-scripts start\" \"node ./server.js\"",
