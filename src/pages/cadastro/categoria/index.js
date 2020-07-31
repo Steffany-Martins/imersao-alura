@@ -103,7 +103,7 @@ function CadastroCategoria() {
 
         <button>Cadastrar</button>
       </form>
-      {categorias.length == 0 && (
+      {categorias.length === 0 && (
         <div>
           {/*Carregando*/}
           Loading...
