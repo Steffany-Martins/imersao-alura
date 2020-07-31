@@ -109,10 +109,11 @@ function CadastroCategoria() {
           Loading...
         </div>
       )}
-
       <ul>
-        {categorias.map((categoria, indice) => {
-          return <li key={`${categoria.nome}${indice}`}>{categoria.nome}</li>;
+        {categorias.map((categorias, indice) => {
+          return (
+            <li key={`${categorias.titulo}${indice}`}>{categorias.titulo}</li>
+          );
         })}
       </ul>
     </PageDefault>
