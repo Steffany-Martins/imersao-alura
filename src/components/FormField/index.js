@@ -33,7 +33,7 @@ Label.Text = styled.span`
 `;
 
 const Input = styled.input`
-  background: #53585d;
+  background: #a51c3171;
   color: #f5f5f5;
   display: block;
   width: 100%;
@@ -43,7 +43,7 @@ const Input = styled.input`
   outline: 0;
   border: 0;
   border-top: 4px solid transparent;
-  border-bottom: 4px solid #53585d;
+  border-bottom: 4px solid #5358;
 
   padding: 16px 16px;
   margin-bottom: 45px;
@@ -53,7 +53,8 @@ const Input = styled.input`
   transition: border-color 0.3s;
 
   &:focus {
-    border-bottom-color: var(--primary);
+    transition: 1.5s;
+    border-bottom-color: #c97682;
   }
   &:focus:not([type="color"]) + ${Label.Text} {
     transform: scale(0.6) translateY(-10px);
@@ -92,8 +93,8 @@ function FormField({ label, type, name, value, onChange }) {
 }
 
 FormField.defaultProps = {
-  type: "text",
-  value: "",
+  type: "text",
+  value: "",
 };
 
 FormField.propTypes = {
