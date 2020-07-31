@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-  <img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/imersao-react-logo.1594044142.svg" alt="lolo imersao alura" height="400">
+  <img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/imersao-react-logo.1594044142.svg" alt="logo imersao alura" height="400">
   
   <div display="flex"><img src="https://img.shields.io/npm/l/node_module?color=green">
 
@@ -25,7 +25,7 @@
 <li>Dia 1: React Components e AluraFlix 27/07 - ✔️</li>
 <li>Dia 2: Roteamento e state 28/07 - ✔️</li>
 <li>Dia 3: Formulários reutilizáveis e mais components 29/07 - ✔️</li>
-<li>Dia 4: Ajax, validação e o back-end 30/07 - ❌ </li>
+<li>Dia 4: Ajax, validação e o back-end 30/07 - ✔️ </li>
 <li>Dia 5: ... 31/07 - ❌ </li>
 </ul>
 <div>
@@ -68,6 +68,7 @@
 <li>React</li>
 <li>Styled-Components</li>
 <li>React-slick</li>
+ <li>Json-server(upload in heroku -> to use /categorias </li>
 </ul>
 <br>
 <h2 id="HowtoUse">ℹ️ How To Use</h2>
@@ -83,7 +84,7 @@
 
 ```
 # Clone this repository
-$ git clone git@github.com:Steffany-Martins/techflix.git
+$ git clone git@github.com:Steffany-Martins/imersao-alura.git
 
 # Go into the repository
 $ cd techflix
@@ -113,5 +114,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 <h3>✔️ Made by Steffany Martins </h3> <a href="https://www.linkedin.com/in/steffanymartinssoares/">👋 Let's connect!</a>
 <br>
-
-<video src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/React%20App.webm" alt="lolo imersao alura" height="700">
+<p align="center">
+ <img src="https://github.com/Steffany-Martins/techflix/blob/master/MyPalette/imersao-react-logo.1594044142.svg" alt="logo imersao alura" height="100"/>
+</p>
+<img src="https://github.com/Steffany-Martins/imersao-alura/blob/master/MyPalette/footer.alura.png" alt="footer imersao alura" height="200px" width="100%" >
