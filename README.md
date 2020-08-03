@@ -87,7 +87,7 @@
 $ git clone git@github.com:Steffany-Martins/imersao-alura.git
 
 # Go into the repository
-$ cd techflix
+$ cd imersao-alura
 
 # Install dependencies
 $ yarn install
