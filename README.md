@@ -26,7 +26,7 @@
 <li>Dia 2: Roteamento e state 28/07 - ✔️</li>
 <li>Dia 3: Formulários reutilizáveis e mais components 29/07 - ✔️</li>
 <li>Dia 4: Ajax, validação e o back-end 30/07 - ✔️ </li>
-<li>Dia 5: ... 31/07 - ❌ </li>
+<li>Dia 5: ... 31/07 - ✔️ </li>
 </ul>
 <div>
 
@@ -93,7 +93,7 @@ $ cd imersao-alura
 $ yarn install
 
 # Run
-$ yarn start
+$ yarn dev
 
 # running on port 3000
 ```
