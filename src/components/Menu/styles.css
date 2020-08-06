@@ -37,6 +37,7 @@
   background: var(--black);
   box-shadow: 1px 1px 8px 2px var(--primary);
 }
+
 body {
   --bodyPaddingTop: 94px;
   padding-top: var(--bodyPaddingTop);

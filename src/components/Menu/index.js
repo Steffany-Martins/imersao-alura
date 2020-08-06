@@ -10,11 +10,16 @@ const Menu = () => {
       <Link to="/">
         <img className="Logo" src={logo} alt="Home KpopFlix" title="Home" />
       </Link>
-
-      <Button as={Link} to="/cadastro/categoria">
-        Novo Vídeo
-      </Button>
+      <div>
+        <Button as={Link} to="/cadastro/categoria">
+          Nova Categoria
+        </Button>
+        <Button as={Link} to="/cadastro/video">
+          Novo Vídeo
+        </Button>
+      </div>
     </nav>
   );
 };
+
 export default Menu;

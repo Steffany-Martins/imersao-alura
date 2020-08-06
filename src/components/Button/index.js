@@ -7,6 +7,7 @@ const Button = styled(Link)`
   box-sizing: border-box;
   cursor: pointer;
   padding: 16px 24px;
+  margin-right: 15px;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
